@@ -1,0 +1,37 @@
+{
+  "display": {
+    "title": "Turnhead",
+    "favicon": "favicon_asset"
+  },
+  "contact": {
+    "name": "Tei",
+    "email": "thierry.mariot@hotmail.com"
+  },
+  "owner": "0xABbFaD2eCd45613302F89d07D343F38d69FcB79C",
+  "scene": {
+    "parcels": [
+      "24,-126",
+      "25,-126",
+      "26,-126",
+      "24,-127",
+      "25,-127",
+      "26,-127",
+      "24,-128",
+      "25,-128",
+      "26,-128"],
+    "base": "24,-128"
+              },
+  "communications": {
+    "type": "webrtc",
+    "signalling": "https://signalling-01.decentraland.org"
+  },
+  "policy": {
+    "contentRating": "E",
+    "fly": false,
+    "voiceEnabled": true,
+    "blacklist": [],
+    "teleportPosition": ""
+  },
+  "main": "bin/game.js",
+  "tags": []
+}
